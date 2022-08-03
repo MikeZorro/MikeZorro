@@ -6,7 +6,10 @@ Java,
 JavaScript,
 Maven,
 AWS,
-IntelliJ
+IntelliJ,
+Spring,
+Hibernate,
+MVC
 
 you can reach me via LinkedIn:
 https://www.linkedin.com/in/michal-soroczynski-6b8383a3/
